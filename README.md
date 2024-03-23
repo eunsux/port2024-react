@@ -4,9 +4,9 @@
 → https://eun-su.github.io
 
 이 튜토리얼은 하나의 웹사이트를 여러 가지 프레임워크를 사용하여 만드는 사이트를 소개합니다.
-웹 개발자들은 종종 다양한 프레임워크를 이용하여 작업하게 됩니다. 
+웹 개발자들은 종종 다양한 프레임워크를 이용하여 작업하게 됩니다.
 
-자바스크립트 프레임워크를 통해 사이트를 효율적으로 만들어 보는 방법을 익히고
+자바스크립트 프레임워크를 통해 사이트를 효율적으로 만들어 보는 방법을 학습하였습니다.
 깊이 배우기 보다는 다양한 방법을 사용하여 흐름과 감각을 익히기 위한 프로젝트를 보여주고 있습니다.
 
 ## 사용 스택
@@ -17,4 +17,3 @@
 - git (https://github.com/) 을 사용하여 파일을 관리합니다.
 - HTML, CSS, sass 기반으로 웹사이트의 기본 레이아웃 설계하고, 웹 표준 및 웹 접근성을 준수하여 작업합니다.
 - [ ARIA(Accessible Rich Internet Applications) ](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
-# port2024-react
