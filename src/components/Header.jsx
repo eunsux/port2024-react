@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 
+// Nav에 있는 apsbDepth
 const headerNav = [
     {
         title: "intro",
